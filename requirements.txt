@@ -1,0 +1,2 @@
+-e git+https://github.com/threatstream/hpfeeds/#egg=hpfeeds-dev
+-e git+https://github.com/derpston/python-multitail2.git@8618a0bb7787085358d354755d68e2d90f5232ab#egg=python-multitail2-dev
